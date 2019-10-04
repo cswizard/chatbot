@@ -3,7 +3,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 import numpy as np
 import random
-import string                                                           '''The word earlier worled well toll this point which means all the modules were succesfully imported.
+import string                                                           '''The code earlier worked well toll this point which means all the modules were succesfully imported.
                                                                                       But after this point there is indentaion error.I am working on this code as well as other one as well.'''
                                                                         
 f =open('chatbot.txt','r',errors='ignore')
