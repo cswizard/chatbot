@@ -1,7 +1,7 @@
 # Chatbot - Pathway 
 
 ## References 
-- [sentdex](https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/)
+- [sentdex - PythonProgramming](https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/)
 - [sendex - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j/)
 
 ## Datasets
