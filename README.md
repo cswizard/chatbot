@@ -12,7 +12,7 @@ Reddit 1.7 billion comments - [link](https://www.reddit.com/r/datasets/comments/
 - Monthly Compressed Data (Direct download links) - [link](http://files.pushshift.io/reddit/comments/)
 - Google BigQuery (paid) - [link](https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/)
 
-## Setup
+## Setup 
 - Python 3.6
 
 ### Libraries
@@ -21,12 +21,13 @@ Reddit 1.7 billion comments - [link](https://www.reddit.com/r/datasets/comments/
 - pandas
 - tensorflow
 
-## Models
-- Sequence to Sequence (seq2seq) - [Tensorflow seq2seq](https://github.com/tensorflow/nmt)
+## Models - NMT
+- Neural Machine Translation (seq2seq) - [Tensorflow seq2seq](https://github.com/tensorflow/nmt)
 - seq2seq - [GeeksforGeeks](https://www.geeksforgeeks.org/seq2seq-model-in-machine-learning/)
+- Tweaked tensorflow-nmt by Daniel Kukiela - [GitHub](https://github.com/daniel-kukiela/nmt-chatbot)
 
-## Testing
-
-## Results
+## Dataset Preparation and Training
 - Dataset to database - ~700,000 rows paired in ~5 hours [RC_2015-01]
 - Training time - ~
+
+## Results
