@@ -23,7 +23,7 @@ Reddit 1.7 billion comments - [link](https://www.reddit.com/r/datasets/comments/
 
 ## Models
 - Sequence to Sequence (seq2seq) - [Tensorflow seq2seq](https://github.com/tensorflow/nmt)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/seq2seq-model-in-machine-learning/)
+- seq2seq - [GeeksforGeeks](https://www.geeksforgeeks.org/seq2seq-model-in-machine-learning/)
 
 ## Testing
 
