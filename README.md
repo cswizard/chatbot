@@ -13,12 +13,17 @@ Reddit 1.7 billion comments - [link](https://www.reddit.com/r/datasets/comments/
 - Google BigQuery (paid) - [link](https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/)
 
 ## Setup
-- Python
-- Tensorflow
+- Python 3.6
+
+### Libraries
+- sqlite3
+- json
+- pandas
+- tensorflow
 
 ## Models
 
 ## Testing
 
 ## Results
-
+- Dataset to database - ~700,000 rows paired in ~5 hours [RC_2015-01]
