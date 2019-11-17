@@ -22,8 +22,11 @@ Reddit 1.7 billion comments - [link](https://www.reddit.com/r/datasets/comments/
 - tensorflow
 
 ## Models
+- Sequence to Sequence (seq2seq) - [Tensorflow seq2seq](https://github.com/tensorflow/nmt)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/seq2seq-model-in-machine-learning/)
 
 ## Testing
 
 ## Results
 - Dataset to database - ~700,000 rows paired in ~5 hours [RC_2015-01]
+- Training time - ~
